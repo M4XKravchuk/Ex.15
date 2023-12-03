@@ -1,0 +1,3 @@
+﻿  Ex.15.cpp
+F:\University\Дисципліни\_ЕКЗАМЕНИ\ІТПД\Ex.15\Ex.15\Ex.15.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Ex.15.vcxproj -> F:\University\Дисципліни\_ЕКЗАМЕНИ\ІТПД\Ex.15\x64\Debug\Ex.15.exe
